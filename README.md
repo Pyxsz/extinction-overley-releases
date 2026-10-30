@@ -1,4 +1,4 @@
-# Extinction Overley
+# Extinction Overley não oficial
 
 Instaladores e atualizações oficiais do Extinction Overley para Windows.
 
@@ -20,3 +20,5 @@ Clique no link acima para baixar o arquivo `.exe`. Depois, abra o instalador e s
 A partir da versão 0.6.0 instalada, o aplicativo consulta o GitHub e avisa quando há uma nova versão. Em **Configurações → Atualizações**, você escolhe quando baixar e reiniciar para atualizar.
 
 Quem usa uma versão anterior precisa instalar a 0.6.0 uma vez para habilitar esse recurso.
+
+### Este mapa funciona apenas no Extinction Signal Brasil. 
